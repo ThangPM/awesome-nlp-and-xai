@@ -1,6 +1,6 @@
 # awesome-nlp-and-xai
 
-##. Transformers
+## Transformers
 
 ### Encoder Only
 
