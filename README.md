@@ -52,11 +52,15 @@
 
 4. ALBERT: A Lite BERT For Self-supervised Learning of Language Presentations ([pdf](https://arxiv.org/pdf/1909.11942.pdf), [code](https://github.com/google-research/ALBERT), notes)
 
+Reformer: The Efficient Transformer ([pdf](https://arxiv.org/pdf/2001.04451.pdf), [code](https://github.com/google/trax), notes)
+
 Shortformer: Better Language Modeling using Shorter Inputs ([pdf](https://arxiv.org/pdf/2012.15832.pdf), [code](), notes)
 
 Longformer: The Long-Document Transformer ([pdf](https://arxiv.org/pdf/2004.05150.pdf), [code](), notes)
 
 DeBERTa: Decoding-enhanced BERT with Disentangled Attention ([pdf](https://arxiv.org/pdf/2006.03654.pdf), [code](https://github.com/microsoft/DeBERTa), notes)
+
+T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer ([pdf](https://arxiv.org/pdf/1910.10683.pdf), [code](https://github.com/google-research/text-to-text-transfer-transformer), notes)
 
 Long Range Arena: A Benchmark for Efficient Transformers ([pdf](https://arxiv.org/pdf/2011.04006.pdf), [code](https://github.com/google-research/long-range-arena), notes)
 
@@ -70,9 +74,12 @@ Extracting Training Data from Large Language Models ([pdf](https://arxiv.org/pdf
 
 ### Zero/Few-shot Learning
 
+1. Making Pre-trained Language Models Better Few-shot Learners ([pdf](https://arxiv.org/pdf/2012.15723v1.pdf), [code](https://github.com/princeton-nlp/LM-BFF), notes)
 ### Question Answering
 
-1. 
+1. Studying Strategically: Learning to Mask for Closed-book QA ([pdf](https://arxiv.org/pdf/2012.15856.pdf), [code](), notes) 
+ 
+2. Multi-hop Question Answering via Reasoning Chains ([pdf](https://arxiv.org/pdf/1910.02610.pdf), [code](), notes) 
 
 ## Miscellaneous
 
