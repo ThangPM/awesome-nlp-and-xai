@@ -2,6 +2,10 @@
 
 ## Language Model
 
+### Must-read
+
+* Attention Is All You Need ([pdf](https://arxiv.org/pdf/1706.03762.pdf), [code](https://github.com/tensorflow/tensor2tensor), notes)
+
 ### Transformers ([Huggingface](https://huggingface.co/transformers/index.html))
 
 #### Encoder Only
@@ -12,7 +16,13 @@
 
 * ALBERT: A Lite BERT For Self-supervised Learning of Language Presentations ([pdf](https://arxiv.org/pdf/1909.11942.pdf), [code](https://github.com/google-research/ALBERT), notes)
 
+* GPT-1: Improving Language Understanding by Generative Pre-Training ([pdf](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), [code](https://github.com/openai/finetune-transformer-lm), notes)
+
 #### Decoder Only
+
+* GPT-2: Language Models are Unsupervised Multitask Learners ([pdf](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [code](https://github.com/openai/gpt-2), notes)
+
+* GPT-3: Language Models are Few-Shot Learners ([pdf](https://arxiv.org/pdf/2005.14165.pdf), [code](https://github.com/openai/gpt-3), notes)
 
 #### Encoder + Decoder
 
@@ -28,11 +38,11 @@
 
 4. oLMpics -- On what Language Model Pre-training Captures ([pdf](https://arxiv.org/pdf/1912.13283.pdf), [code](https://github.com/alontalmor/oLMpics), notes)
 
-5. 
+5. Analyzing the Structure of Attention in a Transformer Language Model ([pdf](https://www.aclweb.org/anthology/W19-4808.pdf), [code](), notes)
 
 #### Optimization
 
-1. Addressing Some Limitations of Transformers with Feedback Memory ([pdf](https://arxiv.org/pdf/2002.09402.pdf), [code](), notes)
+1. Addressing Some Limitations of Transformers with Feedback Memory ([pdf](https://arxiv.org/pdf/2002.09402.pdf), notes)
 
 #### Datasets / Benchmarks
 
