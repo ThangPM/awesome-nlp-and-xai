@@ -2,7 +2,7 @@
 
 ## Language Model
 
-### [Transformers](https://huggingface.co/transformers/index.html)
+### Transformers ([Huggingface](https://huggingface.co/transformers/index.html))
 
 #### Encoder Only
 
