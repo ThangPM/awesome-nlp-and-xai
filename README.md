@@ -35,16 +35,16 @@
  
 #### Multimodal
 
-Supervised Multimodal Bitransformers for Classifying Images and Text ([pdf](https://arxiv.org/pdf/1909.02950.pdf), [code](https://github.com/facebookresearch/mmbt), notes)
+* Supervised Multimodal Bitransformers for Classifying Images and Text ([pdf](https://arxiv.org/pdf/1909.02950.pdf), [code](https://github.com/facebookresearch/mmbt), notes)
 
 #### Retrieval-based
 
-DPR: Dense Passage Retrieval for Open-Domain Question Answering ([pdf](https://arxiv.org/pdf/2004.04906.pdf), [code](https://github.com/facebookresearch/DPR), notes)
-RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks ([pdf](https://arxiv.org/pdf/2005.11401.pdf), [code](https://huggingface.co/transformers/model_doc/rag.html), notes)
+* DPR: Dense Passage Retrieval for Open-Domain Question Answering ([pdf](https://arxiv.org/pdf/2004.04906.pdf), [code](https://github.com/facebookresearch/DPR), notes)
+* RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks ([pdf](https://arxiv.org/pdf/2005.11401.pdf), [code](https://huggingface.co/transformers/model_doc/rag.html), notes)
 
 #### Evaluation
 
-SentEval
+* SentEval
 
 #### Analysis
 
