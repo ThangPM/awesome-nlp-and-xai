@@ -1,6 +1,6 @@
 # awesome-nlp-and-xai (Work in progress)
 
-## Natural Language Understanding
+## Language Model
 
 ### Transformers
 
@@ -20,6 +20,10 @@
 
 3. Unnatural Language Inference ([pdf](https://arxiv.org/pdf/2101.00010.pdf), code, notes)
 
+4. oLMpics -- On what Language Model Pre-training Captures ([pdf](https://arxiv.org/pdf/1912.13283.pdf), [code](https://github.com/alontalmor/oLMpics), notes)
+
+5. 
+
 #### Optimization
 
 1. Addressing Some Limitations of Transformers with Feedback Memory ([pdf](https://arxiv.org/pdf/2002.09402.pdf), [code](), notes)
@@ -34,6 +38,8 @@
 
 4. The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics [comment]: ([pdf](https://arxiv.org/pdf/2102.01672.pdf), [code](), notes)
 
+5. Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies ([pdf](https://arxiv.org/pdf/2101.02235.pdf), [code](), notes)
+
 #### Survey
 
 #### Wait for arrangement
@@ -46,6 +52,16 @@
 
 4. ALBERT: A Lite BERT For Self-supervised Learning of Language Presentations ([pdf](https://arxiv.org/pdf/1909.11942.pdf), [code](https://github.com/google-research/ALBERT), notes)
 
+Shortformer: Better Language Modeling using Shorter Inputs ([pdf](https://arxiv.org/pdf/2012.15832.pdf), [code](), notes)
+
+Longformer: The Long-Document Transformer ([pdf](https://arxiv.org/pdf/2004.05150.pdf), [code](), notes)
+
+DeBERTa: Decoding-enhanced BERT with Disentangled Attention ([pdf](https://arxiv.org/pdf/2006.03654.pdf), [code](https://github.com/microsoft/DeBERTa), notes)
+
+Long Range Arena: A Benchmark for Efficient Transformers ([pdf](https://arxiv.org/pdf/2011.04006.pdf), [code](https://github.com/google-research/long-range-arena), notes)
+
+Extracting Training Data from Large Language Models ([pdf](https://arxiv.org/pdf/2012.07805.pdf), [code](https://github.com/allenai/longformer), notes)
+ 
 ### Multitask Learning
 
 ### Transfer Learning
@@ -74,9 +90,9 @@ MARS-Gym: A Gym framework to model, train, and evaluate Recommender Systems for 
 3. DALL-E
 
 
+## Interpretability
 
-
-
+1. A Survey on Neural Network Interpretability ([pdf](https://arxiv.org/pdf/2012.14261.pdf), [code](), notes)
 
 
 
