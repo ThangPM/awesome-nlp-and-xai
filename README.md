@@ -2,10 +2,10 @@
 
 ## Transformers
 
-### Encoder Only
+### 1. Encoder Only
 
-### Decoder Only
+### 2. Decoder Only
 
-### Encoder + Decoder
+### 3. Encoder + Decoder
 
 2. 
