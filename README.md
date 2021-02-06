@@ -2,13 +2,11 @@
 
 ## Language Model ([Huggingface](https://huggingface.co/transformers/model_summary.html))
 
-### Must-read
-
-* Attention Is All You Need ([pdf](https://arxiv.org/pdf/1706.03762.pdf), [code](https://github.com/tensorflow/tensor2tensor), notes)
-
-
 ### Transformers ([Huggingface](https://huggingface.co/transformers/index.html))
 
+#### Underlying Architecture
+
+* Attention Is All You Need ([pdf](https://arxiv.org/pdf/1706.03762.pdf), [code](https://github.com/tensorflow/tensor2tensor), notes)
 
 #### Encoder Only
 
@@ -54,6 +52,10 @@ Supervised Multimodal Bitransformers for Classifying Images and Text ([pdf](http
 
 #### Retrieval-based
 
+DPR: Dense Passage Retrieval for Open-Domain Question Answering ([pdf](https://arxiv.org/pdf/2004.04906.pdf), [code](https://github.com/facebookresearch/DPR), notes)
+
+RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks ([pdf](https://arxiv.org/pdf/2005.11401.pdf), [code](https://huggingface.co/transformers/model_doc/rag.html), notes)
+
 #### Analysis
 
 [comment]: ([pdf](), [code](), notes)
@@ -70,7 +72,7 @@ Supervised Multimodal Bitransformers for Classifying Images and Text ([pdf](http
 
 #### Optimization
 
-1. Addressing Some Limitations of Transformers with Feedback Memory ([pdf](https://arxiv.org/pdf/2002.09402.pdf), notes)
+* Addressing Some Limitations of Transformers with Feedback Memory ([pdf](https://arxiv.org/pdf/2002.09402.pdf), notes)
 
 #### Datasets / Benchmarks
 
@@ -102,12 +104,13 @@ Supervised Multimodal Bitransformers for Classifying Images and Text ([pdf](http
 
 ### Zero/Few-shot Learning
 
-1. Making Pre-trained Language Models Better Few-shot Learners ([pdf](https://arxiv.org/pdf/2012.15723v1.pdf), [code](https://github.com/princeton-nlp/LM-BFF), notes)
+* Making Pre-trained Language Models Better Few-shot Learners ([pdf](https://arxiv.org/pdf/2012.15723v1.pdf), [code](https://github.com/princeton-nlp/LM-BFF), notes)
+
 ### Question Answering
 
-1. Studying Strategically: Learning to Mask for Closed-book QA ([pdf](https://arxiv.org/pdf/2012.15856.pdf), [code](), notes) 
+* Studying Strategically: Learning to Mask for Closed-book QA ([pdf](https://arxiv.org/pdf/2012.15856.pdf), [code](), notes) 
  
-2. Multi-hop Question Answering via Reasoning Chains ([pdf](https://arxiv.org/pdf/1910.02610.pdf), [code](), notes) 
+* Multi-hop Question Answering via Reasoning Chains ([pdf](https://arxiv.org/pdf/1910.02610.pdf), [code](), notes) 
 
 ## Miscellaneous
 
