@@ -86,15 +86,16 @@ RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks ([pdf](htt
 
 * Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies ([pdf](https://arxiv.org/pdf/2101.02235.pdf), [code](), notes)
 
+* Long Range Arena: A Benchmark for Efficient Transformers ([pdf](https://arxiv.org/pdf/2011.04006.pdf), [code](https://github.com/google-research/long-range-arena), notes)
+
 #### Survey
 
 #### Wait for arrangement
 
 * Switch Transformers: Scaling To Trillion Parameter Models With Simple and Efficient Sparsity ([pdf](https://arxiv.org/pdf/2101.03961.pdf), [code](https://github.com/lab-ml/nn/tree/master/labml_nn/transformers/switch), notes)
-* Shortformer: Better Language Modeling using Shorter Inputs ([pdf](https://arxiv.org/pdf/2012.15832.pdf), [code](), notes)
+* Shortformer: Better Language Modeling using Shorter Inputs ([pdf](https://arxiv.org/pdf/2012.15832.pdf), [code](https://github.com/ofirpress/shortformer), notes)
 * DeBERTa: Decoding-enhanced BERT with Disentangled Attention ([pdf](https://arxiv.org/pdf/2006.03654.pdf), [code](https://github.com/microsoft/DeBERTa), notes)
-* Long Range Arena: A Benchmark for Efficient Transformers ([pdf](https://arxiv.org/pdf/2011.04006.pdf), [code](https://github.com/google-research/long-range-arena), notes)
-* Extracting Training Data from Large Language Models ([pdf](https://arxiv.org/pdf/2012.07805.pdf), [code](https://github.com/allenai/longformer), notes)
+* Extracting Training Data from Large Language Models ([pdf](https://arxiv.org/pdf/2012.07805.pdf), notes)
  
 ### Multitask Learning
 
@@ -121,16 +122,16 @@ MARS-Gym: A Gym framework to model, train, and evaluate Recommender Systems for 
 
 ## Multimodality
 
-1. Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet ([pdf](https://arxiv.org/pdf/2101.11986.pdf), [code](https://github.com/yitu-opensource/T2T-ViT), notes)
+* Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet ([pdf](https://arxiv.org/pdf/2101.11986.pdf), [code](https://github.com/yitu-opensource/T2T-ViT), notes)
 
-2. CLIP: Learning Transferable Visual Models From Natural Language Supervision ([pdf](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [code](https://github.com/openai/CLIP), notes)
+* CLIP: Learning Transferable Visual Models From Natural Language Supervision ([pdf](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [code](https://github.com/openai/CLIP), notes)
 
-3. DALL-E
+* DALL-E
 
 
 ## Interpretability
 
-1. A Survey on Neural Network Interpretability ([pdf](https://arxiv.org/pdf/2012.14261.pdf), [code](), notes)
+* A Survey on Neural Network Interpretability ([pdf](https://arxiv.org/pdf/2012.14261.pdf), [code](), notes)
 
 
 
