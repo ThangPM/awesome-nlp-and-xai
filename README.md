@@ -1,26 +1,31 @@
 # awesome-nlp-and-xai
 
-## Transformers
+## Natural Language Understanding
 
-### Encoder Only
+### Transformers
 
-### Decoder Only
+#### Encoder Only
 
-### Encoder + Decoder
+#### Decoder Only
 
-### Multitask Learning
+#### Encoder + Decoder
 
-### Transfer Learning
+#### Multitask Learning
 
-### Meta Learning
+#### Transfer Learning
 
-### Analysis
+#### Meta Learning
+
+#### Analysis
+
+[comment]: ([pdf](), [code](), notes)
+
 
 1. Out of Order: How important is the sequential order of words in a sentence in Natural Language Understanding tasks? ([pdf](https://arxiv.org/pdf/2012.15180.pdf), code, notes)
 
-2. What does BERT Learn from Multiple-Choice Reading Comprehension Datasets? ([pdf](https://arxiv.org/pdf/1910.12391.pdf))
+2. A Primer in BERTology: What we know about how BERT works ([pdf](https://arxiv.org/pdf/2002.12327.pdf), notes)
 
-3. Unnatural Language Inference ([pdf](https://arxiv.org/pdf/2101.00010.pdf), code, notes)
+Unnatural Language Inference ([pdf](https://arxiv.org/pdf/2101.00010.pdf), code, notes)
 
 ### Datasets / Benchmarks
 
@@ -30,7 +35,9 @@
 
 3. Adversarial NLI: A New Benchmark for Natural Language Understanding ([pdf](https://arxiv.org/pdf/1910.14599.pdf), [code](https://github.com/facebookresearch/anli), notes)
 
-4. 
+4. The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics [comment]: ([pdf](https://arxiv.org/pdf/2102.01672.pdf), [code](), notes)
+
+
 
 # Survey
 
@@ -49,3 +56,17 @@
 ### Question Answering
 
 1. 
+
+[comment]: ([pdf](), [code](), notes)
+
+## Multimodality
+
+1. Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet ([pdf](https://arxiv.org/pdf/2101.11986.pdf), [code](https://github.com/yitu-opensource/T2T-ViT), notes)
+
+
+
+
+
+
+
+
