@@ -30,7 +30,9 @@
 
 3. Adversarial NLI: A New Benchmark for Natural Language Understanding ([pdf](https://arxiv.org/pdf/1910.14599.pdf), [code](https://github.com/facebookresearch/anli), notes)
 
-1. https://arxiv.org/pdf/1910.12391.pdf
+4. 
+
+# Survey
 
 ### Wait for arrangement
 
