@@ -113,6 +113,6 @@ MARS-Gym: A Gym framework to model, train, and evaluate Recommender Systems for 
 ## Interpretability
 
 * A Survey on Neural Network Interpretability ([pdf](https://arxiv.org/pdf/2012.14261.pdf), [code](), notes)
-
+* Interpretation of NLP models through input marginalization ([pdf](https://arxiv.org/pdf/2010.13984.pdf), notes)
 
 
