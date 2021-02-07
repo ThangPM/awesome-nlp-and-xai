@@ -107,7 +107,7 @@ MARS-Gym: A Gym framework to model, train, and evaluate Recommender Systems for 
 
 * Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet ([pdf](https://arxiv.org/pdf/2101.11986.pdf), [code](https://github.com/yitu-opensource/T2T-ViT), notes)
 * CLIP: Learning Transferable Visual Models From Natural Language Supervision ([pdf](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [code](https://github.com/openai/CLIP), notes)
-* DALL-E
+* DALL-E ([blog](https://openai.com/blog/dall-e/))
 
 
 ## Interpretability
