@@ -77,9 +77,8 @@
 * Shortformer: Better Language Modeling using Shorter Inputs ([pdf](https://arxiv.org/pdf/2012.15832.pdf), [code](https://github.com/ofirpress/shortformer), notes)
 * DeBERTa: Decoding-enhanced BERT with Disentangled Attention ([pdf](https://arxiv.org/pdf/2006.03654.pdf), [code](https://github.com/microsoft/DeBERTa), notes)
 * Extracting Training Data from Large Language Models ([pdf](https://arxiv.org/pdf/2012.07805.pdf), notes)
- 
-SpanBERT
-SentenceBERT
+* SpanBERT: Improving Pre-training by Representing and Predicting Spans ([pdf](https://arxiv.org/pdf/1907.10529.pdf), [code](https://github.com/facebookresearch/SpanBERT), notes)
+* Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks ([pdf](https://arxiv.org/pdf/1908.10084.pdf), [code](https://github.com/UKPLab/sentence-transformers), notes)
  
 ### Multitask Learning
 
